@@ -39,6 +39,7 @@
         android:layout_height="49dp"
         android:backgroundTint="#4CAF50"
         android:text="NUEVO EMPLEADO"
+        app:icon="@android:drawable/ic_menu_edit"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
