@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ejercicio3.1A</string>
+    <string-array name="puesto">
+        <item>Gerente</item>
+        <item>Contador</item>
+        <item>Sistemas</item>
+        <item>Recursos Humanos</item>
+        <item>Administrador</item>
+        <item>Secretario/a</item>
+        <item>Psicologo</item>
+        <item>Guardia</item>
+        <item>Limpieza</item>
+        <item>Cafeteria</item>
+
+
+    </string-array>
+</resources>
